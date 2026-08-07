@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
-.venv/
-venv/
+.ai-venv/
+ai-venv/
 env/
 
 # Jupyter
